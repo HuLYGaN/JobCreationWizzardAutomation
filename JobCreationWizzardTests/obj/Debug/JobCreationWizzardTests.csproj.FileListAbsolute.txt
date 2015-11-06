@@ -1,0 +1,11 @@
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\bin\Debug\JobCreationWizzardTests.dll
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\bin\Debug\JobCreationWizzardTests.pdb
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\bin\Debug\JobCreationWizzardAutomation.dll
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\bin\Debug\WebDriver.dll
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\bin\Debug\JobCreationWizzardAutomation.pdb
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\bin\Debug\WebDriver.xml
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\obj\Debug\JobCreationWizzardTests.csprojResolveAssemblyReference.cache
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\obj\Debug\JobCreationWizzardTests.dll
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\obj\Debug\JobCreationWizzardTests.pdb
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\bin\Debug\WebDriver.Support.dll
+D:\Toptal\JobCreationWizzardAutomation\JobCreationWizzardTests\bin\Debug\WebDriver.Support.xml

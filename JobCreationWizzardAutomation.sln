@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCreationWizzardAutomation", "JobCreationWizzardAutomation\JobCreationWizzardAutomation.csproj", "{64450DE0-3D3B-4488-B508-D15068B8D73C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCreationWizzardTests", "JobCreationWizzardTests\JobCreationWizzardTests.csproj", "{90A4AD4E-78A0-42DF-ACBD-B3FBC4AD402A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64450DE0-3D3B-4488-B508-D15068B8D73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64450DE0-3D3B-4488-B508-D15068B8D73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64450DE0-3D3B-4488-B508-D15068B8D73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64450DE0-3D3B-4488-B508-D15068B8D73C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A4AD4E-78A0-42DF-ACBD-B3FBC4AD402A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A4AD4E-78A0-42DF-ACBD-B3FBC4AD402A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A4AD4E-78A0-42DF-ACBD-B3FBC4AD402A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A4AD4E-78A0-42DF-ACBD-B3FBC4AD402A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
