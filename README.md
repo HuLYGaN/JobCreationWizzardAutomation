@@ -7,6 +7,7 @@ Job Creation Wizard Automation ReadMe V1.0
 Tests
 
 Tests are located in Job Creation Wizzard Tests Project in corresponding files.  Each of files represents tests for different pages, except “JobCreationWizzardTest“, which serves as base test.
+Tests are run via NUnit.
 
 
 JobCreationWizzardTest :
@@ -75,5 +76,11 @@ NewJobTestsTechCall :
 
 Jump_to_Job()
 -test finishes creation of job, and validates whether user has landed to Jobs page.
+
+
+Technologies used:
+
+Selenium WebDriver / Firefox driver with C#
+NUnit
 
 
